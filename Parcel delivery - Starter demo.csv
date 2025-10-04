@@ -1,0 +1,378 @@
+Case_ID;Activity;Start;End;Product;Customer;Country;Delivery type
+delivery_101475;Place order;01.01.2020 12:06;01.01.2020 12:22;Clothes;Mike;Germany;Normal
+delivery_101475;Dispatch goods;01.01.2020 21:10;01.01.2020 22:21;Clothes;Mike;Germany;Normal
+delivery_101475;Transit parcel;01.01.2020 23:50;02.01.2020 23:54;Clothes;Mike;Germany;Normal
+delivery_101475;Deliver parcel;03.01.2020 01:30;03.01.2020 04:18;Clothes;Mike;Germany;Normal
+delivery_101475;Receive parcel;03.01.2020 04:35;03.01.2020 04:41;Clothes;Mike;Germany;Normal
+delivery_101485;Place order;04.01.2020 00:08;04.01.2020 00:14;Leisure;Mike;Germany;Express
+delivery_101485;Dispatch goods;04.01.2020 05:06;04.01.2020 07:03;Leisure;Mike;Germany;Express
+delivery_101485;Transit parcel;04.01.2020 08:50;06.01.2020 10:56;Leisure;Mike;Germany;Express
+delivery_101485;Deliver parcel;06.01.2020 12:36;06.01.2020 20:00;Leisure;Mike;Germany;Express
+delivery_101485;Receive parcel;06.01.2020 20:20;06.01.2020 20:25;Leisure;Mike;Germany;Express
+delivery_101495;Place order;05.01.2020 07:49;05.01.2020 08:09;Cosmetics;Rita;Australia;Normal
+delivery_101495;Dispatch goods;05.01.2020 16:46;05.01.2020 17:23;Cosmetics;Rita;Australia;Normal
+delivery_101495;Transit parcel;05.01.2020 18:53;07.01.2020 20:13;Cosmetics;Rita;Australia;Normal
+delivery_101495;Deliver parcel;07.01.2020 21:18;08.01.2020 04:26;Cosmetics;Rita;Australia;Normal
+delivery_101495;Hold parcel;08.01.2020 04:46;08.01.2020 05:35;Cosmetics;Rita;Australia;Normal
+delivery_101495;Pickup ordered parcel;09.01.2020 16:09;09.01.2020 16:21;Cosmetics;Rita;Australia;Normal
+delivery_101505;Place order;07.01.2020 22:35;07.01.2020 22:57;Leisure;Mike;Australia;Express
+delivery_101505;Dispatch goods;08.01.2020 05:05;08.01.2020 07:04;Leisure;Mike;Australia;Express
+delivery_101505;Transit parcel;08.01.2020 08:34;08.01.2020 23:35;Leisure;Mike;Australia;Express
+delivery_101505;Deliver parcel;09.01.2020 00:42;09.01.2020 06:46;Leisure;Mike;Australia;Express
+delivery_101505;Hold parcel;09.01.2020 07:02;09.01.2020 07:47;Leisure;Mike;Australia;Express
+delivery_101505;Pickup ordered parcel;14.01.2020 10:40;14.01.2020 10:51;Leisure;Mike;Australia;Express
+delivery_101515;Place order;10.01.2020 20:10;10.01.2020 20:22;Toys;Steve;Germany;Normal
+delivery_101515;Dispatch goods;11.01.2020 07:19;11.01.2020 08:17;Toys;Steve;Germany;Normal
+delivery_101515;Transit parcel;11.01.2020 09:49;14.01.2020 07:04;Toys;Steve;Germany;Normal
+delivery_101515;Deliver parcel;14.01.2020 08:24;14.01.2020 12:57;Toys;Steve;Germany;Normal
+delivery_101515;Receive parcel;14.01.2020 13:15;14.01.2020 13:23;Toys;Steve;Germany;Normal
+delivery_101525;Place order;14.01.2020 01:10;14.01.2020 01:19;Clothes;Rita;India;Normal
+delivery_101525;Dispatch goods;14.01.2020 04:52;14.01.2020 05:29;Clothes;Rita;India;Normal
+delivery_101525;Transit parcel;14.01.2020 07:21;15.01.2020 14:56;Clothes;Rita;India;Normal
+delivery_101525;Deliver parcel;15.01.2020 16:44;15.01.2020 21:55;Clothes;Rita;India;Normal
+delivery_101525;Receive parcel;15.01.2020 22:08;15.01.2020 22:14;Clothes;Rita;India;Normal
+delivery_101535;Place order;15.01.2020 23:12;15.01.2020 23:42;Tools;Tom;India;Overnight
+delivery_101535;Dispatch goods;16.01.2020 05:53;16.01.2020 06:33;Tools;Tom;India;Overnight
+delivery_101535;Transit parcel;16.01.2020 08:26;16.01.2020 17:17;Tools;Tom;India;Overnight
+delivery_101535;Deliver parcel;16.01.2020 18:35;16.01.2020 21:24;Tools;Tom;India;Overnight
+delivery_101535;Hold parcel;16.01.2020 21:42;16.01.2020 22:28;Tools;Tom;India;Overnight
+delivery_101535;Pickup ordered parcel;17.01.2020 04:19;17.01.2020 04:27;Tools;Tom;India;Overnight
+delivery_101545;Place order;18.01.2020 09:07;18.01.2020 09:36;Office supplies;Rita;Australia;Normal
+delivery_101545;Dispatch goods;18.01.2020 14:51;18.01.2020 16:12;Office supplies;Rita;Australia;Normal
+delivery_101545;Transit parcel;18.01.2020 17:46;20.01.2020 13:42;Office supplies;Rita;Australia;Normal
+delivery_101545;Deliver parcel;20.01.2020 15:07;20.01.2020 21:21;Office supplies;Rita;Australia;Normal
+delivery_101545;Receive parcel;20.01.2020 21:40;20.01.2020 21:49;Office supplies;Rita;Australia;Normal
+delivery_101555;Place order;20.01.2020 22:12;20.01.2020 22:28;Toys;Mike;Australia;Overnight
+delivery_101555;Dispatch goods;21.01.2020 00:38;21.01.2020 02:05;Toys;Mike;Australia;Overnight
+delivery_101555;Transit parcel;21.01.2020 04:03;21.01.2020 14:38;Toys;Mike;Australia;Overnight
+delivery_101555;Deliver parcel;21.01.2020 16:19;21.01.2020 19:51;Toys;Mike;Australia;Overnight
+delivery_101555;Receive parcel;21.01.2020 20:09;21.01.2020 20:14;Toys;Mike;Australia;Overnight
+delivery_101565;Place order;23.01.2020 13:49;23.01.2020 14:10;Tools;Rita;India;Express
+delivery_101565;Dispatch goods;24.01.2020 02:01;24.01.2020 02:57;Tools;Rita;India;Express
+delivery_101565;Transit parcel;24.01.2020 04:53;26.01.2020 19:32;Tools;Rita;India;Express
+delivery_101565;Deliver parcel;26.01.2020 20:39;27.01.2020 02:06;Tools;Rita;India;Express
+delivery_101565;Receive parcel;27.01.2020 02:20;27.01.2020 02:28;Tools;Rita;India;Express
+delivery_101575;Place order;26.01.2020 07:02;26.01.2020 07:08;Office supplies;Jenny;India;Express
+delivery_101575;Dispatch goods;26.01.2020 15:26;26.01.2020 17:19;Office supplies;Jenny;India;Express
+delivery_101575;Transit parcel;26.01.2020 18:43;27.01.2020 18:19;Office supplies;Jenny;India;Express
+delivery_101575;Deliver parcel;27.01.2020 19:20;27.01.2020 21:06;Office supplies;Jenny;India;Express
+delivery_101575;Receive parcel;27.01.2020 21:19;27.01.2020 21:27;Office supplies;Jenny;India;Express
+delivery_101585;Place order;28.01.2020 13:37;28.01.2020 13:53;Clothes;Steve;India;Express
+delivery_101585;Dispatch goods;28.01.2020 18:48;28.01.2020 19:54;Clothes;Steve;India;Express
+delivery_101585;Transit parcel;28.01.2020 21:07;29.01.2020 20:36;Clothes;Steve;India;Express
+delivery_101585;Deliver parcel;29.01.2020 21:38;30.01.2020 04:56;Clothes;Steve;India;Express
+delivery_101585;Receive parcel;30.01.2020 05:10;30.01.2020 05:17;Clothes;Steve;India;Express
+delivery_101595;Place order;31.01.2020 03:05;31.01.2020 03:31;Tools;Steve;Australia;Overnight
+delivery_101595;Dispatch goods;31.01.2020 09:09;31.01.2020 10:22;Tools;Steve;Australia;Overnight
+delivery_101595;Transit parcel;31.01.2020 11:39;31.01.2020 23:34;Tools;Steve;Australia;Overnight
+delivery_101595;Deliver parcel;01.02.2020 01:14;01.02.2020 08:33;Tools;Steve;Australia;Overnight
+delivery_101595;Hold parcel;01.02.2020 08:45;01.02.2020 09:24;Tools;Steve;Australia;Overnight
+delivery_101595;Pickup ordered parcel;03.02.2020 15:17;03.02.2020 15:26;Tools;Steve;Australia;Overnight
+delivery_101605;Place order;02.02.2020 16:25;02.02.2020 16:36;Clothes;Tom;Germany;Express
+delivery_101605;Dispatch goods;03.02.2020 01:44;03.02.2020 03:32;Clothes;Tom;Germany;Express
+delivery_101605;Transit parcel;03.02.2020 05:26;03.02.2020 22:43;Clothes;Tom;Germany;Express
+delivery_101605;Deliver parcel;03.02.2020 23:48;04.02.2020 01:49;Clothes;Tom;Germany;Express
+delivery_101605;Receive parcel;04.02.2020 02:00;04.02.2020 02:06;Clothes;Tom;Germany;Express
+delivery_101615;Place order;06.02.2020 00:27;06.02.2020 00:47;Food;Jenny;Russia;Overnight
+delivery_101615;Dispatch goods;06.02.2020 04:46;06.02.2020 06:12;Food;Jenny;Russia;Overnight
+delivery_101615;Transit parcel;06.02.2020 07:44;06.02.2020 19:05;Food;Jenny;Russia;Overnight
+delivery_101615;Deliver parcel;06.02.2020 20:46;07.02.2020 02:53;Food;Jenny;Russia;Overnight
+delivery_101615;Hold parcel;07.02.2020 03:04;07.02.2020 03:42;Food;Jenny;Russia;Overnight
+delivery_101615;Initiate return;08.02.2020 22:10;08.02.2020 22:27;Food;Jenny;Russia;Overnight
+delivery_101625;Place order;09.02.2020 08:36;09.02.2020 08:48;Clothes;Tom;Germany;Normal
+delivery_101625;Dispatch goods;09.02.2020 17:13;09.02.2020 18:15;Clothes;Tom;Germany;Normal
+delivery_101625;Transit parcel;09.02.2020 19:35;10.02.2020 19:32;Clothes;Tom;Germany;Normal
+delivery_101625;Deliver parcel;10.02.2020 21:21;11.02.2020 02:21;Clothes;Tom;Germany;Normal
+delivery_101625;Receive parcel;11.02.2020 02:33;11.02.2020 02:41;Clothes;Tom;Germany;Normal
+delivery_101635;Place order;12.02.2020 15:38;12.02.2020 15:47;Toys;Jenny;Australia;Express
+delivery_101635;Dispatch goods;12.02.2020 23:40;13.02.2020 00:18;Toys;Jenny;Australia;Express
+delivery_101635;Transit parcel;13.02.2020 01:43;14.02.2020 19:45;Toys;Jenny;Australia;Express
+delivery_101635;Deliver parcel;14.02.2020 21:10;15.02.2020 04:00;Toys;Jenny;Australia;Express
+delivery_101635;Hold parcel;15.02.2020 04:16;15.02.2020 05:11;Toys;Jenny;Australia;Express
+delivery_101635;Pickup ordered parcel;18.02.2020 04:43;18.02.2020 04:48;Toys;Jenny;Australia;Express
+delivery_101645;Place order;14.02.2020 09:59;14.02.2020 10:18;Office supplies;Steve;Germany;Express
+delivery_101645;Dispatch goods;14.02.2020 21:02;14.02.2020 22:47;Office supplies;Steve;Germany;Express
+delivery_101645;Transit parcel;15.02.2020 00:36;17.02.2020 14:44;Office supplies;Steve;Germany;Express
+delivery_101645;Deliver parcel;17.02.2020 16:00;17.02.2020 21:27;Office supplies;Steve;Germany;Express
+delivery_101645;Receive parcel;17.02.2020 21:42;17.02.2020 21:48;Office supplies;Steve;Germany;Express
+delivery_101655;Place order;16.02.2020 22:27;16.02.2020 22:49;Leisure;Jenny;Russia;Overnight
+delivery_101655;Dispatch goods;17.02.2020 02:57;17.02.2020 04:17;Leisure;Jenny;Russia;Overnight
+delivery_101655;Transit parcel;17.02.2020 05:54;17.02.2020 16:49;Leisure;Jenny;Russia;Overnight
+delivery_101655;Deliver parcel;17.02.2020 18:13;17.02.2020 21:00;Leisure;Jenny;Russia;Overnight
+delivery_101655;Hold parcel;17.02.2020 21:14;17.02.2020 21:49;Leisure;Jenny;Russia;Overnight
+delivery_101655;Pickup ordered parcel;21.02.2020 20:01;21.02.2020 20:14;Leisure;Jenny;Russia;Overnight
+delivery_101665;Place order;19.02.2020 09:29;19.02.2020 09:50;Office supplies;Tom;Japan;Normal
+delivery_101665;Dispatch goods;19.02.2020 13:48;19.02.2020 14:20;Office supplies;Tom;Japan;Normal
+delivery_101665;Transit parcel;19.02.2020 15:56;21.02.2020 12:38;Office supplies;Tom;Japan;Normal
+delivery_101665;Deliver parcel;21.02.2020 14:30;21.02.2020 21:33;Office supplies;Tom;Japan;Normal
+delivery_101665;Hold parcel;21.02.2020 21:44;21.02.2020 22:14;Office supplies;Tom;Japan;Normal
+delivery_101665;Initiate return;28.02.2020 04:50;28.02.2020 05:02;Office supplies;Tom;Japan;Normal
+delivery_101675;Place order;21.02.2020 04:15;21.02.2020 04:21;Tools;Tom;Australia;Normal
+delivery_101675;Dispatch goods;21.02.2020 16:39;21.02.2020 18:15;Tools;Tom;Australia;Normal
+delivery_101675;Transit parcel;21.02.2020 19:25;23.02.2020 23:45;Tools;Tom;Australia;Normal
+delivery_101675;Deliver parcel;24.02.2020 01:09;24.02.2020 06:29;Tools;Tom;Australia;Normal
+delivery_101675;Hold parcel;24.02.2020 06:40;24.02.2020 07:17;Tools;Tom;Australia;Normal
+delivery_101675;Pickup ordered parcel;27.02.2020 10:55;27.02.2020 11:07;Tools;Tom;Australia;Normal
+delivery_101685;Place order;23.02.2020 00:22;23.02.2020 00:51;Clothes;Tom;Russia;Normal
+delivery_101685;Dispatch goods;23.02.2020 08:11;23.02.2020 09:45;Clothes;Tom;Russia;Normal
+delivery_101685;Transit parcel;23.02.2020 11:45;24.02.2020 18:17;Clothes;Tom;Russia;Normal
+delivery_101685;Deliver parcel;24.02.2020 19:29;25.02.2020 00:17;Clothes;Tom;Russia;Normal
+delivery_101685;Receive parcel;25.02.2020 00:36;25.02.2020 00:43;Clothes;Tom;Russia;Normal
+delivery_101695;Place order;25.02.2020 08:40;25.02.2020 09:04;Office supplies;Tom;India;Normal
+delivery_101695;Dispatch goods;25.02.2020 14:37;25.02.2020 15:19;Office supplies;Tom;India;Normal
+delivery_101695;Transit parcel;25.02.2020 16:42;26.02.2020 06:25;Office supplies;Tom;India;Normal
+delivery_101695;Deliver parcel;26.02.2020 08:00;26.02.2020 09:45;Office supplies;Tom;India;Normal
+delivery_101695;Hold parcel;26.02.2020 10:03;26.02.2020 10:57;Office supplies;Tom;India;Normal
+delivery_101695;Pickup ordered parcel;28.02.2020 07:12;28.02.2020 07:24;Office supplies;Tom;India;Normal
+delivery_101705;Place order;28.02.2020 07:17;28.02.2020 07:44;Food;Jenny;Australia;Overnight
+delivery_101705;Dispatch goods;28.02.2020 12:57;28.02.2020 14:56;Food;Jenny;Australia;Overnight
+delivery_101705;Transit parcel;28.02.2020 16:51;29.02.2020 03:14;Food;Jenny;Australia;Overnight
+delivery_101705;Deliver parcel;29.02.2020 04:28;29.02.2020 09:47;Food;Jenny;Australia;Overnight
+delivery_101705;Hold parcel;29.02.2020 10:06;29.02.2020 10:58;Food;Jenny;Australia;Overnight
+delivery_101705;Pickup ordered parcel;04.03.2020 22:58;04.03.2020 23:08;Food;Jenny;Australia;Overnight
+delivery_101715;Place order;01.03.2020 23:58;02.03.2020 00:07;Cosmetics;Rita;Germany;Overnight
+delivery_101715;Dispatch goods;02.03.2020 08:19;02.03.2020 08:50;Cosmetics;Rita;Germany;Overnight
+delivery_101715;Transit parcel;02.03.2020 09:58;02.03.2020 18:19;Cosmetics;Rita;Germany;Overnight
+delivery_101715;Deliver parcel;02.03.2020 20:01;02.03.2020 23:14;Cosmetics;Rita;Germany;Overnight
+delivery_101715;Receive parcel;02.03.2020 23:26;02.03.2020 23:33;Cosmetics;Rita;Germany;Overnight
+delivery_101725;Place order;04.03.2020 04:05;04.03.2020 04:24;Clothes;Tom;India;Overnight
+delivery_101725;Dispatch goods;04.03.2020 12:12;04.03.2020 13:29;Clothes;Tom;India;Overnight
+delivery_101725;Transit parcel;04.03.2020 15:26;05.03.2020 02:41;Clothes;Tom;India;Overnight
+delivery_101725;Deliver parcel;05.03.2020 04:09;05.03.2020 05:20;Clothes;Tom;India;Overnight
+delivery_101725;Hold parcel;05.03.2020 05:36;05.03.2020 06:26;Clothes;Tom;India;Overnight
+delivery_101725;Initiate return;09.03.2020 21:56;09.03.2020 22:05;Clothes;Tom;India;Overnight
+delivery_101735;Place order;06.03.2020 14:38;06.03.2020 15:03;Cosmetics;Steve;Australia;Express
+delivery_101735;Dispatch goods;06.03.2020 21:25;06.03.2020 22:35;Cosmetics;Steve;Australia;Express
+delivery_101735;Transit parcel;06.03.2020 23:46;08.03.2020 05:40;Cosmetics;Steve;Australia;Express
+delivery_101735;Deliver parcel;08.03.2020 06:58;08.03.2020 13:56;Cosmetics;Steve;Australia;Express
+delivery_101735;Hold parcel;08.03.2020 14:09;08.03.2020 14:44;Cosmetics;Steve;Australia;Express
+delivery_101735;Pickup ordered parcel;13.03.2020 00:07;13.03.2020 00:16;Cosmetics;Steve;Australia;Express
+delivery_101745;Place order;08.03.2020 21:17;08.03.2020 21:36;Tools;Steve;Germany;Normal
+delivery_101745;Dispatch goods;09.03.2020 08:01;09.03.2020 08:57;Tools;Steve;Germany;Normal
+delivery_101745;Transit parcel;09.03.2020 10:45;10.03.2020 02:48;Tools;Steve;Germany;Normal
+delivery_101745;Deliver parcel;10.03.2020 04:36;10.03.2020 07:38;Tools;Steve;Germany;Normal
+delivery_101745;Hold parcel;10.03.2020 07:50;10.03.2020 08:29;Tools;Steve;Germany;Normal
+delivery_101745;Pickup ordered parcel;16.03.2020 17:52;16.03.2020 17:59;Tools;Steve;Germany;Normal
+delivery_101755;Place order;12.03.2020 00:09;12.03.2020 00:32;Cosmetics;Tom;Russia;Express
+delivery_101755;Dispatch goods;12.03.2020 11:14;12.03.2020 12:57;Cosmetics;Tom;Russia;Express
+delivery_101755;Transit parcel;12.03.2020 14:07;14.03.2020 16:47;Cosmetics;Tom;Russia;Express
+delivery_101755;Deliver parcel;14.03.2020 18:04;14.03.2020 23:25;Cosmetics;Tom;Russia;Express
+delivery_101755;Receive parcel;14.03.2020 23:38;14.03.2020 23:44;Cosmetics;Tom;Russia;Express
+delivery_101765;Place order;14.03.2020 19:39;14.03.2020 19:48;Tools;Tom;India;Express
+delivery_101765;Dispatch goods;14.03.2020 22:33;14.03.2020 23:49;Tools;Tom;India;Express
+delivery_101765;Transit parcel;15.03.2020 01:03;17.03.2020 21:16;Tools;Tom;India;Express
+delivery_101765;Deliver parcel;17.03.2020 22:35;18.03.2020 04:12;Tools;Tom;India;Express
+delivery_101765;Hold parcel;18.03.2020 04:24;18.03.2020 05:06;Tools;Tom;India;Express
+delivery_101765;Pickup ordered parcel;24.03.2020 22:13;24.03.2020 22:27;Tools;Tom;India;Express
+delivery_101775;Place order;17.03.2020 00:52;17.03.2020 01:15;Leisure;Steve;Japan;Normal
+delivery_101775;Dispatch goods;17.03.2020 07:13;17.03.2020 08:24;Leisure;Steve;Japan;Normal
+delivery_101775;Transit parcel;17.03.2020 09:27;19.03.2020 00:04;Leisure;Steve;Japan;Normal
+delivery_101775;Deliver parcel;19.03.2020 01:57;19.03.2020 03:05;Leisure;Steve;Japan;Normal
+delivery_101775;Hold parcel;19.03.2020 03:18;19.03.2020 04:09;Leisure;Steve;Japan;Normal
+delivery_101775;Pickup ordered parcel;23.03.2020 12:18;23.03.2020 12:26;Leisure;Steve;Japan;Normal
+delivery_101785;Place order;18.03.2020 17:50;18.03.2020 18:01;Office supplies;Jenny;India;Normal
+delivery_101785;Dispatch goods;18.03.2020 20:43;18.03.2020 21:43;Office supplies;Jenny;India;Normal
+delivery_101785;Transit parcel;18.03.2020 23:11;20.03.2020 15:10;Office supplies;Jenny;India;Normal
+delivery_101785;Deliver parcel;20.03.2020 16:27;21.03.2020 00:04;Office supplies;Jenny;India;Normal
+delivery_101785;Receive parcel;21.03.2020 00:21;21.03.2020 00:28;Office supplies;Jenny;India;Normal
+delivery_101795;Place order;21.03.2020 15:21;21.03.2020 15:40;Food;Rita;Russia;Express
+delivery_101795;Dispatch goods;21.03.2020 23:38;22.03.2020 01:22;Food;Rita;Russia;Express
+delivery_101795;Transit parcel;22.03.2020 03:05;23.03.2020 20:29;Food;Rita;Russia;Express
+delivery_101795;Deliver parcel;23.03.2020 22:23;24.03.2020 00:55;Food;Rita;Russia;Express
+delivery_101795;Receive parcel;24.03.2020 01:08;24.03.2020 01:15;Food;Rita;Russia;Express
+delivery_101805;Place order;24.03.2020 08:17;24.03.2020 08:42;Leisure;Jenny;India;Express
+delivery_101805;Dispatch goods;24.03.2020 16:15;24.03.2020 17:04;Leisure;Jenny;India;Express
+delivery_101805;Transit parcel;24.03.2020 18:37;26.03.2020 05:03;Leisure;Jenny;India;Express
+delivery_101805;Deliver parcel;26.03.2020 06:57;26.03.2020 09:06;Leisure;Jenny;India;Express
+delivery_101805;Hold parcel;26.03.2020 09:22;26.03.2020 10:14;Leisure;Jenny;India;Express
+delivery_101805;Pickup ordered parcel;01.04.2020 08:02;01.04.2020 08:08;Leisure;Jenny;India;Express
+delivery_101815;Place order;26.03.2020 15:49;26.03.2020 16:09;Food;Tom;Germany;Express
+delivery_101815;Dispatch goods;26.03.2020 19:41;26.03.2020 20:31;Food;Tom;Germany;Express
+delivery_101815;Transit parcel;26.03.2020 21:56;28.03.2020 11:12;Food;Tom;Germany;Express
+delivery_101815;Deliver parcel;28.03.2020 12:49;28.03.2020 14:24;Food;Tom;Germany;Express
+delivery_101815;Receive parcel;28.03.2020 14:35;28.03.2020 14:43;Food;Tom;Germany;Express
+delivery_101825;Place order;29.03.2020 03:48;29.03.2020 03:58;Leisure;Rita;India;Express
+delivery_101825;Dispatch goods;29.03.2020 16:45;29.03.2020 18:10;Leisure;Rita;India;Express
+delivery_101825;Transit parcel;29.03.2020 19:27;31.03.2020 18:17;Leisure;Rita;India;Express
+delivery_101825;Deliver parcel;31.03.2020 20:03;01.04.2020 01:59;Leisure;Rita;India;Express
+delivery_101825;Hold parcel;01.04.2020 02:12;01.04.2020 03:09;Leisure;Rita;India;Express
+delivery_101825;Pickup ordered parcel;05.04.2020 12:22;05.04.2020 12:31;Leisure;Rita;India;Express
+delivery_101835;Place order;30.03.2020 17:53;30.03.2020 18:22;Sports;Tom;Australia;Overnight
+delivery_101835;Dispatch goods;31.03.2020 01:33;31.03.2020 03:21;Sports;Tom;Australia;Overnight
+delivery_101835;Transit parcel;31.03.2020 04:51;31.03.2020 13:14;Sports;Tom;Australia;Overnight
+delivery_101835;Deliver parcel;31.03.2020 14:27;31.03.2020 16:34;Sports;Tom;Australia;Overnight
+delivery_101835;Hold parcel;31.03.2020 16:53;31.03.2020 17:30;Sports;Tom;Australia;Overnight
+delivery_101835;Pickup ordered parcel;04.04.2020 17:37;04.04.2020 17:49;Sports;Tom;Australia;Overnight
+delivery_201450;Place order;02.01.2020 03:24;02.01.2020 03:50;Toys;Amy;USA;Normal
+delivery_201450;Dispatch goods;02.01.2020 08:44;02.01.2020 14:39;Toys;Amy;USA;Normal
+delivery_201450;Transit parcel;04.01.2020 01:56;08.01.2020 06:31;Toys;Amy;USA;Normal
+delivery_201450;Deliver parcel;09.01.2020 21:22;10.01.2020 00:19;Toys;Amy;USA;Normal
+delivery_201450;Receive parcel;10.01.2020 00:30;10.01.2020 00:35;Toys;Amy;USA;Normal
+delivery_201460;Place order;04.01.2020 14:52;04.01.2020 15:12;Clothes;Amy;USA;Express
+delivery_201460;Dispatch goods;05.01.2020 03:12;05.01.2020 05:49;Clothes;Amy;USA;Express
+delivery_201460;Transit parcel;07.01.2020 22:16;09.01.2020 21:05;Clothes;Amy;USA;Express
+delivery_201460;Deliver parcel;12.01.2020 15:31;12.01.2020 20:39;Clothes;Amy;USA;Express
+delivery_201460;Receive parcel;12.01.2020 20:50;12.01.2020 20:57;Clothes;Amy;USA;Express
+delivery_201470;Place order;06.01.2020 19:18;06.01.2020 19:24;Office supplies;Amy;USA;Express
+delivery_201470;Dispatch goods;07.01.2020 07:32;07.01.2020 09:57;Office supplies;Amy;USA;Express
+delivery_201470;Transit parcel;09.01.2020 00:28;12.01.2020 03:59;Office supplies;Amy;USA;Express
+delivery_201470;Deliver parcel;14.01.2020 03:08;14.01.2020 10:01;Office supplies;Amy;USA;Express
+delivery_201470;Hold parcel;14.01.2020 10:21;14.01.2020 11:06;Office supplies;Amy;USA;Express
+delivery_201470;Pickup ordered parcel;20.01.2020 04:46;20.01.2020 04:59;Office supplies;Amy;USA;Express
+delivery_201480;Place order;08.01.2020 12:14;08.01.2020 12:36;Leisure;Amy;USA;Normal
+delivery_201480;Dispatch goods;09.01.2020 11:08;09.01.2020 14:13;Leisure;Amy;USA;Normal
+delivery_201480;Transit parcel;11.01.2020 08:24;17.01.2020 13:09;Leisure;Amy;USA;Normal
+delivery_201480;Deliver parcel;18.01.2020 14:07;18.01.2020 18:42;Leisure;Amy;USA;Normal
+delivery_201480;Receive parcel;18.01.2020 19:00;18.01.2020 19:07;Leisure;Amy;USA;Normal
+delivery_201490;Place order;11.01.2020 01:55;11.01.2020 02:24;Leisure;Amy;USA;Normal
+delivery_201490;Dispatch goods;11.01.2020 22:49;12.01.2020 00:50;Leisure;Amy;USA;Normal
+delivery_201490;Transit parcel;14.01.2020 08:49;16.01.2020 19:48;Leisure;Amy;USA;Normal
+delivery_201490;Deliver parcel;18.01.2020 18:00;18.01.2020 19:39;Leisure;Amy;USA;Normal
+delivery_201490;Receive parcel;18.01.2020 19:57;18.01.2020 20:04;Leisure;Amy;USA;Normal
+delivery_201500;Place order;13.01.2020 14:18;13.01.2020 14:39;Sports;Amy;USA;Overnight
+delivery_201500;Dispatch goods;14.01.2020 07:00;14.01.2020 09:48;Sports;Amy;USA;Overnight
+delivery_201500;Transit parcel;17.01.2020 00:42;20.01.2020 18:58;Sports;Amy;USA;Overnight
+delivery_201500;Deliver parcel;23.01.2020 03:15;23.01.2020 09:24;Sports;Amy;USA;Overnight
+delivery_201500;Receive parcel;23.01.2020 09:38;23.01.2020 09:44;Sports;Amy;USA;Overnight
+delivery_201510;Place order;15.01.2020 16:02;15.01.2020 16:11;Clothes;Amy;USA;Normal
+delivery_201510;Dispatch goods;16.01.2020 08:46;16.01.2020 14:23;Clothes;Amy;USA;Normal
+delivery_201510;Transit parcel;18.01.2020 12:45;22.01.2020 00:29;Clothes;Amy;USA;Normal
+delivery_201510;Deliver parcel;23.01.2020 10:09;23.01.2020 14:36;Clothes;Amy;USA;Normal
+delivery_201510;Hold parcel;23.01.2020 14:50;23.01.2020 15:23;Clothes;Amy;USA;Normal
+delivery_201510;Pickup ordered parcel;26.01.2020 00:42;26.01.2020 00:47;Clothes;Amy;USA;Normal
+delivery_201520;Place order;18.01.2020 03:28;18.01.2020 03:47;Cosmetics;Amy;USA;Express
+delivery_201520;Dispatch goods;19.01.2020 04:10;19.01.2020 06:09;Cosmetics;Amy;USA;Express
+delivery_201520;Transit parcel;21.01.2020 10:42;23.01.2020 14:22;Cosmetics;Amy;USA;Express
+delivery_201520;Deliver parcel;24.01.2020 03:32;24.01.2020 10:57;Cosmetics;Amy;USA;Express
+delivery_201520;Receive parcel;24.01.2020 11:12;24.01.2020 11:21;Cosmetics;Amy;USA;Express
+delivery_201530;Place order;19.01.2020 18:09;19.01.2020 18:22;Food;Amy;USA;Normal
+delivery_201530;Dispatch goods;20.01.2020 08:29;20.01.2020 12:52;Food;Amy;USA;Normal
+delivery_201530;Transit parcel;21.01.2020 22:05;26.01.2020 08:57;Food;Amy;USA;Normal
+delivery_201530;Deliver parcel;27.01.2020 04:18;27.01.2020 10:37;Food;Amy;USA;Normal
+delivery_201530;Receive parcel;27.01.2020 10:48;27.01.2020 10:57;Food;Amy;USA;Normal
+delivery_201540;Place order;22.01.2020 16:16;22.01.2020 16:40;Office supplies;Amy;USA;Normal
+delivery_201540;Dispatch goods;23.01.2020 02:15;23.01.2020 09:09;Office supplies;Amy;USA;Normal
+delivery_201540;Transit parcel;26.01.2020 06:31;30.01.2020 01:37;Office supplies;Amy;USA;Normal
+delivery_201540;Deliver parcel;31.01.2020 10:54;31.01.2020 12:43;Office supplies;Amy;USA;Normal
+delivery_201540;Hold parcel;31.01.2020 12:55;31.01.2020 13:49;Office supplies;Amy;USA;Normal
+delivery_201540;Pickup ordered parcel;02.02.2020 20:52;02.02.2020 21:03;Office supplies;Amy;USA;Normal
+delivery_201550;Place order;25.01.2020 00:17;25.01.2020 00:37;Leisure;Amy;USA;Normal
+delivery_201550;Dispatch goods;25.01.2020 17:05;26.01.2020 00:03;Leisure;Amy;USA;Normal
+delivery_201550;Transit parcel;28.01.2020 12:35;30.01.2020 23:06;Leisure;Amy;USA;Normal
+delivery_201550;Deliver parcel;02.02.2020 21:45;03.02.2020 02:50;Leisure;Amy;USA;Normal
+delivery_201550;Receive parcel;03.02.2020 03:05;03.02.2020 03:10;Leisure;Amy;USA;Normal
+delivery_201560;Place order;27.01.2020 15:58;27.01.2020 16:23;Food;Amy;USA;Express
+delivery_201560;Dispatch goods;27.01.2020 21:58;28.01.2020 04:18;Food;Amy;USA;Express
+delivery_201560;Transit parcel;28.01.2020 23:24;31.01.2020 19:21;Food;Amy;USA;Express
+delivery_201560;Deliver parcel;02.02.2020 12:56;02.02.2020 17:25;Food;Amy;USA;Express
+delivery_201560;Receive parcel;02.02.2020 17:38;02.02.2020 17:47;Food;Amy;USA;Express
+delivery_201570;Place order;30.01.2020 06:41;30.01.2020 07:09;Cosmetics;Amy;USA;Normal
+delivery_201570;Dispatch goods;30.01.2020 14:40;30.01.2020 21:35;Cosmetics;Amy;USA;Normal
+delivery_201570;Transit parcel;01.02.2020 20:10;07.02.2020 03:42;Cosmetics;Amy;USA;Normal
+delivery_201570;Deliver parcel;08.02.2020 18:47;08.02.2020 21:36;Cosmetics;Amy;USA;Normal
+delivery_201570;Hold parcel;08.02.2020 21:51;08.02.2020 22:29;Cosmetics;Amy;USA;Normal
+delivery_201570;Pickup ordered parcel;11.02.2020 15:56;11.02.2020 16:08;Cosmetics;Amy;USA;Normal
+delivery_201580;Place order;02.02.2020 05:26;02.02.2020 05:32;Clothes;Amy;USA;Express
+delivery_201580;Dispatch goods;02.02.2020 21:55;03.02.2020 04:42;Clothes;Amy;USA;Express
+delivery_201580;Transit parcel;04.02.2020 19:06;07.02.2020 15:43;Clothes;Amy;USA;Express
+delivery_201580;Deliver parcel;08.02.2020 05:38;08.02.2020 11:23;Clothes;Amy;USA;Express
+delivery_201580;Hold parcel;08.02.2020 11:40;08.02.2020 12:13;Clothes;Amy;USA;Express
+delivery_201580;Pickup ordered parcel;11.02.2020 21:26;11.02.2020 21:35;Clothes;Amy;USA;Express
+delivery_201590;Place order;05.02.2020 02:53;05.02.2020 03:03;Leisure;Amy;USA;Express
+delivery_201590;Dispatch goods;05.02.2020 06:26;05.02.2020 08:06;Leisure;Amy;USA;Express
+delivery_201590;Transit parcel;06.02.2020 06:57;09.02.2020 00:02;Leisure;Amy;USA;Express
+delivery_201590;Deliver parcel;10.02.2020 17:58;10.02.2020 21:00;Leisure;Amy;USA;Express
+delivery_201590;Receive parcel;10.02.2020 21:12;10.02.2020 21:19;Leisure;Amy;USA;Express
+delivery_201600;Place order;07.02.2020 01:01;07.02.2020 01:23;Sports;Amy;USA;Normal
+delivery_201600;Dispatch goods;07.02.2020 18:56;07.02.2020 20:33;Sports;Amy;USA;Normal
+delivery_201600;Transit parcel;09.02.2020 10:30;13.02.2020 21:18;Sports;Amy;USA;Normal
+delivery_201600;Deliver parcel;16.02.2020 19:09;16.02.2020 23:08;Sports;Amy;USA;Normal
+delivery_201600;Receive parcel;16.02.2020 23:18;16.02.2020 23:27;Sports;Amy;USA;Normal
+delivery_201610;Place order;10.02.2020 06:29;10.02.2020 06:55;Sports;Amy;USA;Normal
+delivery_201610;Dispatch goods;10.02.2020 10:11;10.02.2020 12:54;Sports;Amy;USA;Normal
+delivery_201610;Transit parcel;12.02.2020 23:52;16.02.2020 18:11;Sports;Amy;USA;Normal
+delivery_201610;Deliver parcel;18.02.2020 23:29;19.02.2020 01:35;Sports;Amy;USA;Normal
+delivery_201610;Receive parcel;19.02.2020 01:54;19.02.2020 02:04;Sports;Amy;USA;Normal
+delivery_201620;Place order;13.02.2020 09:42;13.02.2020 09:55;Clothes;Amy;USA;Normal
+delivery_201620;Dispatch goods;14.02.2020 04:20;14.02.2020 08:12;Clothes;Amy;USA;Normal
+delivery_201620;Transit parcel;15.02.2020 19:41;18.02.2020 04:27;Clothes;Amy;USA;Normal
+delivery_201620;Deliver parcel;20.02.2020 05:12;20.02.2020 12:35;Clothes;Amy;USA;Normal
+delivery_201620;Receive parcel;20.02.2020 12:49;20.02.2020 12:57;Clothes;Amy;USA;Normal
+delivery_201630;Place order;16.02.2020 04:43;16.02.2020 05:13;Leisure;Amy;USA;Normal
+delivery_201630;Dispatch goods;17.02.2020 03:04;17.02.2020 04:16;Leisure;Amy;USA;Normal
+delivery_201630;Transit parcel;20.02.2020 03:10;26.02.2020 02:27;Leisure;Amy;USA;Normal
+delivery_201630;Deliver parcel;28.02.2020 08:42;28.02.2020 16:02;Leisure;Amy;USA;Normal
+delivery_201630;Receive parcel;28.02.2020 16:16;28.02.2020 16:26;Leisure;Amy;USA;Normal
+delivery_201640;Place order;19.02.2020 01:53;19.02.2020 02:03;Toys;Amy;USA;Normal
+delivery_201640;Dispatch goods;19.02.2020 18:11;19.02.2020 20:24;Toys;Amy;USA;Normal
+delivery_201640;Transit parcel;21.02.2020 04:00;26.02.2020 05:21;Toys;Amy;USA;Normal
+delivery_201640;Deliver parcel;27.02.2020 05:19;27.02.2020 06:57;Toys;Amy;USA;Normal
+delivery_201640;Receive parcel;27.02.2020 07:15;27.02.2020 07:23;Toys;Amy;USA;Normal
+delivery_201650;Place order;21.02.2020 12:01;21.02.2020 12:30;Clothes;Amy;USA;Express
+delivery_201650;Dispatch goods;22.02.2020 02:11;22.02.2020 04:26;Clothes;Amy;USA;Express
+delivery_201650;Transit parcel;24.02.2020 12:11;29.02.2020 05:22;Clothes;Amy;USA;Express
+delivery_201650;Deliver parcel;02.03.2020 07:27;02.03.2020 08:31;Clothes;Amy;USA;Express
+delivery_201650;Receive parcel;02.03.2020 08:50;02.03.2020 08:58;Clothes;Amy;USA;Express
+delivery_201660;Place order;25.02.2020 00:24;25.02.2020 00:41;Cosmetics;Amy;USA;Normal
+delivery_201660;Dispatch goods;26.02.2020 00:22;26.02.2020 06:57;Cosmetics;Amy;USA;Normal
+delivery_201660;Transit parcel;26.02.2020 23:25;29.02.2020 01:37;Cosmetics;Amy;USA;Normal
+delivery_201660;Deliver parcel;02.03.2020 17:57;02.03.2020 20:45;Cosmetics;Amy;USA;Normal
+delivery_201660;Receive parcel;02.03.2020 21:00;02.03.2020 21:06;Cosmetics;Amy;USA;Normal
+delivery_201670;Place order;27.02.2020 17:32;27.02.2020 17:37;Leisure;Amy;USA;Overnight
+delivery_201670;Dispatch goods;27.02.2020 22:55;28.02.2020 05:03;Leisure;Amy;USA;Overnight
+delivery_201670;Transit parcel;01.03.2020 18:33;05.03.2020 11:25;Leisure;Amy;USA;Overnight
+delivery_201670;Deliver parcel;06.03.2020 01:31;06.03.2020 07:42;Leisure;Amy;USA;Overnight
+delivery_201670;Receive parcel;06.03.2020 07:56;06.03.2020 08:01;Leisure;Amy;USA;Overnight
+delivery_201680;Place order;01.03.2020 03:15;01.03.2020 03:38;Leisure;Amy;USA;Express
+delivery_201680;Dispatch goods;01.03.2020 19:37;01.03.2020 23:30;Leisure;Amy;USA;Express
+delivery_201680;Transit parcel;04.03.2020 05:35;08.03.2020 11:52;Leisure;Amy;USA;Express
+delivery_201680;Deliver parcel;10.03.2020 10:33;10.03.2020 13:01;Leisure;Amy;USA;Express
+delivery_201680;Receive parcel;10.03.2020 13:14;10.03.2020 13:21;Leisure;Amy;USA;Express
+delivery_201690;Place order;03.03.2020 11:43;03.03.2020 11:59;Sports;Amy;USA;Express
+delivery_201690;Dispatch goods;04.03.2020 06:09;04.03.2020 09:17;Sports;Amy;USA;Express
+delivery_201690;Transit parcel;06.03.2020 05:12;07.03.2020 08:06;Sports;Amy;USA;Express
+delivery_201690;Deliver parcel;10.03.2020 04:53;10.03.2020 11:26;Sports;Amy;USA;Express
+delivery_201690;Hold parcel;10.03.2020 11:37;10.03.2020 12:22;Sports;Amy;USA;Express
+delivery_201690;Pickup ordered parcel;11.03.2020 06:15;11.03.2020 06:27;Sports;Amy;USA;Express
+delivery_201700;Place order;05.03.2020 19:17;05.03.2020 19:26;Clothes;Amy;USA;Express
+delivery_201700;Dispatch goods;06.03.2020 18:30;06.03.2020 23:52;Clothes;Amy;USA;Express
+delivery_201700;Transit parcel;08.03.2020 09:19;10.03.2020 15:35;Clothes;Amy;USA;Express
+delivery_201700;Deliver parcel;11.03.2020 21:04;12.03.2020 02:52;Clothes;Amy;USA;Express
+delivery_201700;Receive parcel;12.03.2020 03:07;12.03.2020 03:16;Clothes;Amy;USA;Express
+delivery_201710;Place order;08.03.2020 06:52;08.03.2020 07:08;Toys;Amy;USA;Overnight
+delivery_201710;Dispatch goods;09.03.2020 00:53;09.03.2020 07:22;Toys;Amy;USA;Overnight
+delivery_201710;Transit parcel;10.03.2020 03:06;15.03.2020 06:35;Toys;Amy;USA;Overnight
+delivery_201710;Deliver parcel;17.03.2020 00:35;17.03.2020 07:03;Toys;Amy;USA;Overnight
+delivery_201710;Receive parcel;17.03.2020 07:14;17.03.2020 07:20;Toys;Amy;USA;Overnight
+delivery_201720;Place order;11.03.2020 11:09;11.03.2020 11:31;Sports;Amy;USA;Overnight
+delivery_201720;Dispatch goods;12.03.2020 04:11;12.03.2020 05:26;Sports;Amy;USA;Overnight
+delivery_201720;Transit parcel;13.03.2020 01:16;15.03.2020 14:39;Sports;Amy;USA;Overnight
+delivery_201720;Deliver parcel;16.03.2020 15:01;16.03.2020 21:46;Sports;Amy;USA;Overnight
+delivery_201720;Receive parcel;16.03.2020 22:04;16.03.2020 22:12;Sports;Amy;USA;Overnight
+delivery_201730;Place order;14.03.2020 06:52;14.03.2020 07:07;Food;Amy;USA;Normal
+delivery_201730;Dispatch goods;14.03.2020 17:29;15.03.2020 00:21;Food;Amy;USA;Normal
+delivery_201730;Transit parcel;16.03.2020 01:19;20.03.2020 01:14;Food;Amy;USA;Normal
+delivery_201730;Deliver parcel;21.03.2020 12:18;21.03.2020 19:19;Food;Amy;USA;Normal
+delivery_201730;Receive parcel;21.03.2020 19:33;21.03.2020 19:43;Food;Amy;USA;Normal
+delivery_201740;Place order;16.03.2020 16:25;16.03.2020 16:37;Tools;Amy;USA;Normal
+delivery_201740;Dispatch goods;17.03.2020 01:29;17.03.2020 03:54;Tools;Amy;USA;Normal
+delivery_201740;Transit parcel;20.03.2020 01:15;26.03.2020 19:19;Tools;Amy;USA;Normal
+delivery_201740;Deliver parcel;28.03.2020 08:12;28.03.2020 15:24;Tools;Amy;USA;Normal
+delivery_201740;Receive parcel;28.03.2020 15:42;28.03.2020 15:47;Tools;Amy;USA;Normal
+delivery_201750;Place order;19.03.2020 15:48;19.03.2020 16:17;Sports;Amy;USA;Normal
+delivery_201750;Dispatch goods;19.03.2020 23:44;20.03.2020 06:12;Sports;Amy;USA;Normal
+delivery_201750;Transit parcel;21.03.2020 19:18;28.03.2020 18:57;Sports;Amy;USA;Normal
+delivery_201750;Deliver parcel;30.03.2020 10:54;30.03.2020 16:18;Sports;Amy;USA;Normal
+delivery_201750;Hold parcel;30.03.2020 16:35;30.03.2020 17:07;Sports;Amy;USA;Normal
+delivery_201750;Pickup ordered parcel;03.04.2020 18:54;03.04.2020 18:59;Sports;Amy;USA;Normal
+delivery_201760;Place order;21.03.2020 10:39;21.03.2020 10:48;Tools;Amy;USA;Overnight
+delivery_201760;Dispatch goods;22.03.2020 09:53;22.03.2020 15:22;Tools;Amy;USA;Overnight
+delivery_201760;Transit parcel;24.03.2020 23:51;28.03.2020 22:11;Tools;Amy;USA;Overnight
+delivery_201760;Deliver parcel;29.03.2020 22:34;30.03.2020 05:08;Tools;Amy;USA;Overnight
+delivery_201760;Hold parcel;30.03.2020 05:26;30.03.2020 06:02;Tools;Amy;USA;Overnight
+delivery_201760;Pickup ordered parcel;04.04.2020 18:02;04.04.2020 18:08;Tools;Amy;USA;Overnight
+delivery_201770;Place order;23.03.2020 22:45;23.03.2020 23:11;Toys;Amy;USA;Express
+delivery_201770;Dispatch goods;24.03.2020 10:48;24.03.2020 12:12;Toys;Amy;USA;Express
+delivery_201770;Transit parcel;26.03.2020 05:38;01.04.2020 05:06;Toys;Amy;USA;Express
+delivery_201770;Deliver parcel;01.04.2020 19:10;02.04.2020 01:18;Toys;Amy;USA;Express
+delivery_201770;Receive parcel;02.04.2020 01:32;02.04.2020 01:40;Toys;Amy;USA;Express
